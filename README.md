@@ -1,6 +1,6 @@
 # ps-sidecar
 
-Remember to fork the repo and **make all changes to your fork**. You cannot make changes to this repo (I'm not accepting PRs).
+This is the forked version of the ps-sidecar
 
 Simple HTML config used for K8s sidecar demos
 
